@@ -31,7 +31,7 @@ We're building a small, remote team working on new projects in the **fitness and
 3. In the **root folder** of your repo, add a Markdown file with your CV:  
    `cv_{your-full-name}.md`
 4. Submit your application using this form:  
-   👉 [Insert Your Form Link Here]
+   👉  https://forms.gle/3TpyZ8uHP3L9Nyq4A
 
 > If your repo is private, make sure you grant us access to review it.
 
